@@ -1,5 +1,6 @@
-package Employee_project;
+package Employee_project.application;
 
+import Employee_project.Employee;
 import java.util.Locale;
 import java.util.Scanner;
 

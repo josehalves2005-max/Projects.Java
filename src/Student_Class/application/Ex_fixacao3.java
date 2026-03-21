@@ -1,5 +1,6 @@
-package Student_Class;
+package Student_Class.application;
 
+import Student_Class.Student;
 import java.util.Locale;
 import java.util.Scanner;
 

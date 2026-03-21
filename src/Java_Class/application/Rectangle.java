@@ -1,4 +1,4 @@
-package Java_Class;
+package Java_Class.application;
 
 public class Rectangle {
 

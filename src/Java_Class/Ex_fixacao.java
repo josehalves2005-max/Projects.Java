@@ -1,5 +1,6 @@
 package Java_Class;
 
+import Java_Class.application.Rectangle;
 import java.util.Locale;
 import java.util.Scanner;
 
