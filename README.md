@@ -21,4 +21,4 @@ Repositório dedicado ao estudo e prática de **Lógica de Programação** e **P
 ---
 **Desenvolvido por José Henrique** *Estudante de Análise e Desenvolvimento de Sistemas*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alves-b49590293/)
